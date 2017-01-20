@@ -1,4 +1,5 @@
 ## install SparklyR
-install.packages("sparklyr")
+# install.packages("sparklyr")
 
+library(sparklyr)
 
